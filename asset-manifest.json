@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/crazy-for-react/static/css/main.ccb9955b.css",
+    "main.css": "/crazy-for-react/static/css/main.14ccb80d.css",
     "main.js": "/crazy-for-react/static/js/main.32bd0428.js",
     "index.html": "/crazy-for-react/index.html",
-    "main.ccb9955b.css.map": "/crazy-for-react/static/css/main.ccb9955b.css.map",
+    "main.14ccb80d.css.map": "/crazy-for-react/static/css/main.14ccb80d.css.map",
     "main.32bd0428.js.map": "/crazy-for-react/static/js/main.32bd0428.js.map"
   },
   "entrypoints": [
-    "static/css/main.ccb9955b.css",
+    "static/css/main.14ccb80d.css",
     "static/js/main.32bd0428.js"
   ]
 }
