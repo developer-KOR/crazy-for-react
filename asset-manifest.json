@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/crazy-for-react/static/js/main.e82f566c.js",
+    "main.js": "/crazy-for-react/static/js/main.4cb7638c.js",
     "index.html": "/crazy-for-react/index.html",
-    "main.e82f566c.js.map": "/crazy-for-react/static/js/main.e82f566c.js.map"
+    "main.4cb7638c.js.map": "/crazy-for-react/static/js/main.4cb7638c.js.map"
   },
   "entrypoints": [
-    "static/js/main.e82f566c.js"
+    "static/js/main.4cb7638c.js"
   ]
 }
